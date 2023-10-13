@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-12T21:43:23 IST" name="Suite" finished-at="2023-10-12T21:46:16 IST" duration-ms="173413">
+    <groups>
+    </groups>
+    <test started-at="2023-10-12T21:43:23 IST" name="Test" finished-at="2023-10-12T21:46:16 IST" duration-ms="173413">
+      <class name="com.test.cases.SelectItem">
+        <test-method signature="toSelectItem()[pri:3, instance:com.test.cases.SelectItem@2af004b]" started-at="2023-10-12T21:43:48 IST" name="toSelectItem" finished-at="2023-10-12T21:44:06 IST" duration-ms="18301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toSelectItem -->
+      </class> <!-- com.test.cases.SelectItem -->
+      <class name="com.test.cases.ShoppingItem">
+        <test-method signature="writeItemName()[pri:2, instance:com.test.cases.ShoppingItem@27406a17]" started-at="2023-10-12T21:43:43 IST" name="writeItemName" finished-at="2023-10-12T21:43:48 IST" duration-ms="4242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeItemName -->
+      </class> <!-- com.test.cases.ShoppingItem -->
+      <class name="com.test.cases.ShoppingDestination">
+        <test-method signature="shpProcess()[pri:1, instance:com.test.cases.ShoppingDestination@6892b3b6]" started-at="2023-10-12T21:43:23 IST" name="shpProcess" finished-at="2023-10-12T21:43:43 IST" duration-ms="20246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shpProcess -->
+      </class> <!-- com.test.cases.ShoppingDestination -->
+      <class name="com.test.cases.AddToCart">
+        <test-method signature="toProceedShopping()[pri:4, instance:com.test.cases.AddToCart@248e319b]" started-at="2023-10-12T21:44:06 IST" name="toProceedShopping" finished-at="2023-10-12T21:46:16 IST" duration-ms="130528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toProceedShopping -->
+      </class> <!-- com.test.cases.AddToCart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
